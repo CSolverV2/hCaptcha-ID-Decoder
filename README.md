@@ -1,6 +1,9 @@
 # hCaptcha-ID-Decoder
 Decode hCaptcha's event id's dynamically, they are not standard like they are in the hsw, they are encoded.
 
+# Info
+- I'll publish a full event id mapper at 30 stars :)
+
 # What Are Event IDs?
 
 These are the IDs hCaptcha uses in theri `hsw` to check if the user is a bot or human
